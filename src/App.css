@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.timer{
+  display: block;
+}
+.action-btns{
+  display: flex;
+  justify-content: center;
+  margin: 1rem;
+}
+
+.btn{
+  margin-right: 2rem;
+  cursor: pointer;
+}
+
+.input-section button{
+  margin-left: 2rem;
+}
